@@ -243,6 +243,20 @@
       "single": "out/final_single/98a008fa239cbcf6fb6868fd160bad24.jpg",
       "caption": "Apple teases M5 MacBook\\n\\nApple is teasing the imminent launch of a new MacBook with an M5 chip . In an X post, Apple SVP of worldwide marketing Greg Joswiak wrote that \u201csomething powerful is coming,\u201d and a short video in the post includes a silhouette of an Apple laptop .\\n\\nRead more -> https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser\n\n#news #worldnews #AEYWorldNews #DailyBrief",
       "instagram_posted": false
+    },
+    "b5d5eea685f1a4531168dff3ceaa4c4b": {
+      "ts": "2025-10-14T20:32:13.999820+00:00",
+      "link": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
+      "title": "Inaudible sound might be the next frontier in wildfire defense",
+      "script": "out/scripts/b5d5eea685f1a4531168dff3ceaa4c4b.json",
+      "slides": [
+        "out/final_images/b5d5eea685f1a4531168dff3ceaa4c4b/slide_01.jpg",
+        "out/final_images/b5d5eea685f1a4531168dff3ceaa4c4b/slide_02.jpg",
+        "out/final_images/b5d5eea685f1a4531168dff3ceaa4c4b/slide_03.jpg"
+      ],
+      "single": "out/final_single/b5d5eea685f1a4531168dff3ceaa4c4b.jpg",
+      "caption": "Inaudible sound might be the next frontier in wildfire defense\\n\\nSonic Fire Tech has developed a device that can extinguish flames using acoustic energy below the range of human hearing . The startup is building a demo capable of protecting a home . Inaudible sound might be the next frontier in wildfire defense .\\n\\nRead more -> https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/\n\n#news #worldnews #AEYWorldNews #DailyBrief",
+      "instagram_posted": false
     }
   }
 }
