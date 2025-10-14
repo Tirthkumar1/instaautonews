@@ -1,0 +1,136 @@
+{
+  "seen_ids": {
+    "3a6b36660cd0ce156b31173fd115cbe1": {
+      "ts": "2025-09-23T21:01:56.153829"
+    },
+    "d75fc9c85c32981319ea2c4904fa82c3": {
+      "ts": "2025-09-23T21:01:56.153884"
+    },
+    "ff4df148c6b0b9c397363202549190ac": {
+      "ts": "2025-09-23T21:01:56.153893"
+    },
+    "d5e5b74dcceb243bb2622361838737ef": {
+      "ts": "2025-10-02T20:14:28.089969"
+    },
+    "feed0867be55a37ca9b9310cfb53ae82": {
+      "ts": "2025-10-02T20:14:28.090025"
+    },
+    "41e50749e9e13aba34ad0d11eaae8e45": {
+      "ts": "2025-10-02T20:14:28.090038"
+    },
+    "8940b347db2b225ef37537be98bab231": {
+      "ts": "2025-10-02T20:56:29.711774",
+      "link": "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html",
+      "title": "Hundreds of 'green' projects axed by Energy Dept. across U.S. concentrated in 'blue states'",
+      "script": "out\\scripts\\8940b347db2b225ef37537be98bab231.json",
+      "slides": [
+        "out\\final_images\\8940b347db2b225ef37537be98bab231\\slide_01.jpg",
+        "out\\final_images\\8940b347db2b225ef37537be98bab231\\slide_02.jpg",
+        "out\\final_images\\8940b347db2b225ef37537be98bab231\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\8940b347db2b225ef37537be98bab231.jpg",
+      "caption": "Hundreds of 'green' projects axed by Energy Dept. across U.S. concentrated in 'blue states'",
+      "instagram_posted": true
+    },
+    "680c8eb1be648e4016f7386204dfd265": {
+      "ts": "2025-10-02T20:56:29.711817",
+      "link": "https://www.cnbc.com/2025/10/02/elon-musk-calls-for-canceling-netflix-whats-happening.html",
+      "title": "Elon Musk is telling his followers to cancel Netflix subscriptions. Here's what's happening",
+      "script": "out\\scripts\\680c8eb1be648e4016f7386204dfd265.json",
+      "slides": [
+        "out\\final_images\\680c8eb1be648e4016f7386204dfd265\\slide_01.jpg",
+        "out\\final_images\\680c8eb1be648e4016f7386204dfd265\\slide_02.jpg",
+        "out\\final_images\\680c8eb1be648e4016f7386204dfd265\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\680c8eb1be648e4016f7386204dfd265.jpg",
+      "caption": "Elon Musk is telling his followers to cancel Netflix subscriptions. Here's what's happening",
+      "instagram_posted": true
+    },
+    "ee1a924ac4a400fef87c880097f211a6": {
+      "ts": "2025-10-02T20:56:29.711829",
+      "link": "https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion",
+      "title": "Shein is opening its first physical stores",
+      "script": "out\\scripts\\ee1a924ac4a400fef87c880097f211a6.json",
+      "slides": [
+        "out\\final_images\\ee1a924ac4a400fef87c880097f211a6\\slide_01.jpg",
+        "out\\final_images\\ee1a924ac4a400fef87c880097f211a6\\slide_02.jpg",
+        "out\\final_images\\ee1a924ac4a400fef87c880097f211a6\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\ee1a924ac4a400fef87c880097f211a6.jpg",
+      "caption": "Shein is opening its first physical stores",
+      "instagram_posted": true
+    },
+    "b571eef1b412b5fa3b4bfbef9f5fa739": {
+      "ts": "2025-10-02T21:57:49.182892",
+      "link": "https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street",
+      "title": "Redbox\u2019s next product may be piracy lawsuits",
+      "script": "out\\scripts\\b571eef1b412b5fa3b4bfbef9f5fa739.json",
+      "slides": [
+        "out\\final_images\\b571eef1b412b5fa3b4bfbef9f5fa739\\slide_01.jpg",
+        "out\\final_images\\b571eef1b412b5fa3b4bfbef9f5fa739\\slide_02.jpg",
+        "out\\final_images\\b571eef1b412b5fa3b4bfbef9f5fa739\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\b571eef1b412b5fa3b4bfbef9f5fa739.jpg",
+      "caption": "Redbox\u2019s next product may be piracy lawsuits",
+      "instagram_posted": true
+    },
+    "8a431f4f20f81065923a0e247b91af60": {
+      "ts": "2025-10-02T21:57:49.182918",
+      "link": "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html",
+      "title": "Energy Dept. axes hundreds of 'green' projects in 'blue states' during shutdown",
+      "script": "out\\scripts\\8a431f4f20f81065923a0e247b91af60.json",
+      "slides": [
+        "out\\final_images\\8a431f4f20f81065923a0e247b91af60\\slide_01.jpg",
+        "out\\final_images\\8a431f4f20f81065923a0e247b91af60\\slide_02.jpg",
+        "out\\final_images\\8a431f4f20f81065923a0e247b91af60\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\8a431f4f20f81065923a0e247b91af60.jpg",
+      "caption": "Energy Dept. axes hundreds of 'green' projects in 'blue states' during shutdown",
+      "instagram_posted": true
+    },
+    "d077426b3bc9deb4917891475a7e0675": {
+      "ts": "2025-10-02T21:57:49.182928",
+      "link": "https://www.answer.ai/posts/2025-10-01-solveit-full.html",
+      "title": "Launching Solveit \u2013 an antidote to AI fatigue",
+      "script": "out\\scripts\\d077426b3bc9deb4917891475a7e0675.json",
+      "slides": [
+        "out\\final_images\\d077426b3bc9deb4917891475a7e0675\\slide_01.jpg",
+        "out\\final_images\\d077426b3bc9deb4917891475a7e0675\\slide_02.jpg",
+        "out\\final_images\\d077426b3bc9deb4917891475a7e0675\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\d077426b3bc9deb4917891475a7e0675.jpg",
+      "caption": "Launching Solveit \u2013 an antidote to AI fatigue",
+      "instagram_posted": true
+    },
+    "fe883fe2902df713efed04a2a37ca431": {
+      "ts": "2025-10-02T22:20:55.495862+00:00",
+      "link": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
+      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
+      "script": "out\\scripts\\fe883fe2902df713efed04a2a37ca431.json",
+      "slides": [
+        "out\\final_images\\fe883fe2902df713efed04a2a37ca431\\slide_01.jpg",
+        "out\\final_images\\fe883fe2902df713efed04a2a37ca431\\slide_02.jpg",
+        "out\\final_images\\fe883fe2902df713efed04a2a37ca431\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\fe883fe2902df713efed04a2a37ca431.jpg",
+      "caption": "The strangest letter of the alphabet: The rise and fall of yogh",
+      "instagram_posted": true,
+      "single_deleted": true
+    },
+    "c0cd60252bfa4b6af708e868a35e6be4": {
+      "ts": "2025-10-14T09:42:06.916545+00:00",
+      "link": "https://www.cnbc.com/2025/10/14/rare-earth-stocks-rally-amid-renewed-us-china-trade-dispute-.html",
+      "title": "Rare earth stocks rally in premarket, extending gains amid renewed U.S.-China trade spat",
+      "script": "out\\scripts\\c0cd60252bfa4b6af708e868a35e6be4.json",
+      "slides": [
+        "out\\final_images\\c0cd60252bfa4b6af708e868a35e6be4\\slide_01.jpg",
+        "out\\final_images\\c0cd60252bfa4b6af708e868a35e6be4\\slide_02.jpg",
+        "out\\final_images\\c0cd60252bfa4b6af708e868a35e6be4\\slide_03.jpg"
+      ],
+      "single": "out\\final_single\\c0cd60252bfa4b6af708e868a35e6be4.jpg",
+      "caption": "Rare earth stocks rally in premarket, extending gains amid renewed U.S.-China trade spat\n\nShares of U. rare earth miners rallied in premarket trade on Tuesday, extending sharp gains from the previous session. Why it matters: Shares of U. Why it matters: rare earth miners rallied in premarket trade on Tuesday, extending sharp gains from the previous session. Shares of U.S. rare earth miners rallied in premarket trade on Tuesday, extending sharp gains from the previous session.\n\nRead more -> https://www.cnbc.com/2025/10/14/rare-earth-stocks-rally-amid-renewed-us-china-trade-dispute-.html\n\n#news #worldnews #AEYWorldNews #DailyBrief",
+      "instagram_posted": true,
+      "single_deleted": true
+    }
+  }
+}
