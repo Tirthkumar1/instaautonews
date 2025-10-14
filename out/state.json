@@ -271,6 +271,20 @@
       "single": "out/final_single/06e6eded54d1425267a46d89e13841c8.jpg",
       "caption": "Sam Altman says ChatGPT will soon allow erotica for adult users\\n\\nOpenAI says it will soon roll back some of ChatGPT's safeguards, and even allow the chatbot to engage in erotica for adult users . The chatbot will soon be able to engage for adverts .\\n\\nRead more -> https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/\n\n#news #worldnews #AEYWorldNews #DailyBrief",
       "instagram_posted": false
+    },
+    "42128f5f972ff872da63669410b5ad4b": {
+      "ts": "2025-10-14T22:29:33.568453+00:00",
+      "link": "https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal",
+      "title": "Netflix is making a big bet on video podcasts",
+      "script": "out/scripts/42128f5f972ff872da63669410b5ad4b.json",
+      "slides": [
+        "out/final_images/42128f5f972ff872da63669410b5ad4b/slide_01.jpg",
+        "out/final_images/42128f5f972ff872da63669410b5ad4b/slide_02.jpg",
+        "out/final_images/42128f5f972ff872da63669410b5ad4b/slide_03.jpg"
+      ],
+      "single": "out/final_single/42128f5f972ff872da63669410b5ad4b.jpg",
+      "caption": "Netflix is making a big bet on video podcasts\\n\\nNetflix is no longer just a home for TV shows, movies, documentaries, and live WWE matches \u2014 soon, you\u2019ll be able to stream video podcasts, too . The streaming giant announced on Tuesday that it\u2019s partnering with Spotify's podcast studio and The Ringer to offer 16 series on its platform .\\n\\nRead more -> https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal\n\n#news #worldnews #AEYWorldNews #DailyBrief",
+      "instagram_posted": false
     }
   }
 }
