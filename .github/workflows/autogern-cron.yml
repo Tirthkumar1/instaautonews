@@ -67,10 +67,7 @@ jobs:
           DEEPAI_KEYS: ${{ secrets.AUTOGERN_DEEPAI_KEYS }}
         run: |
           mkdir -p out
-          python - <<'PY'
-import autogern
-autogern.one_hour_run()
-PY
+          python -c "import autogern; autogern.one_hour_run()"
 
       - name: Commit updated state
         if: github.event_name != 'pull_request'
