@@ -1,0 +1,8 @@
+feedparser
+requests
+python-dotenv
+Pillow
+beautifulsoup4
+transformers
+torch
+instagrapi
