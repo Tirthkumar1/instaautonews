@@ -51,8 +51,6 @@ CAPTION_SUMMARY_MODEL = os.getenv("CAPTION_SUMMARY_MODEL", "sshleifer/distilbart
 CAPTION_SUMMARY_MIN_TOKENS = int(os.getenv("CAPTION_SUMMARY_MIN_TOKENS", "45"))
 CAPTION_SUMMARY_MAX_TOKENS = int(os.getenv("CAPTION_SUMMARY_MAX_TOKENS", "130"))
 CAPTION_SUMMARY_INPUT_MAX_CHARS = int(os.getenv("CAPTION_SUMMARY_INPUT_MAX_CHARS", "3500"))
-DAEMON_MODE = os.getenv("AUTOGERN_DAEMON_MODE", "false").strip().lower() in {"1", "true", "yes", "on"}
-POLL_INTERVAL_SECONDS = max(60, int(os.getenv("AUTOGERN_POLL_INTERVAL_SECONDS", "3600")))
 
 
 UA = "Mozilla/5.0"
@@ -469,20 +467,11 @@ def one_hour_run():
 # Main loop
 # =========================
 def main():
-    print(f"[BOOT] Autogen starting. IG posting: {'ON' if IG_POST_ENABLED else 'OFF'}")
-    if not DAEMON_MODE:
-        try:
-            one_hour_run()
-        except Exception as e:
-            print("[ERR]", e)
-        return
-    print(f"[LOOP] Daemon mode enabled. Poll interval: {POLL_INTERVAL_SECONDS} seconds.")
-    while True:
-        try:
-            one_hour_run()
-        except Exception as e:
-            print("[ERR]", e)
-        time.sleep(POLL_INTERVAL_SECONDS)
+    print(f"[BOOT] Autogen run starting. IG posting: {'ON' if IG_POST_ENABLED else 'OFF'}")
+    try:
+        one_hour_run()
+    except Exception as e:
+        print("[ERR]", e)
 
 if __name__=="__main__":
     main()
