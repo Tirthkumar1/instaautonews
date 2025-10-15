@@ -49,6 +49,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Restore Instagram session
+        if: "${{ secrets.AUTOGERN_IG_SESSION_SETTINGS != '' }}"
+        run: |
+          mkdir -p out
+          printf '%s' "${{ secrets.AUTOGERN_IG_SESSION_SETTINGS }}" > out/ig_session.json
+
       - name: Run single autogern cycle
         env:
           FEEDS: ${{ secrets.AUTOGERN_FEEDS }}
